@@ -1,0 +1,6 @@
+--
+# save this as user_config.yaml.  by default that will not be 
+# added to the repo
+jenkins_url: "https://jenkins.example.com"
+jenkins_username: "your.username@example.com"
+jenkins_token: 123123123123123123
